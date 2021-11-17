@@ -1,0 +1,8 @@
+__MACOSX/
+my-portfolio.zip
+/my-portfolio/.DS_Store
+/my-portfolio/README.md
+/my-portfolio/craco.config.js
+/my-portfolio/netlify.toml
+/my-portfolio/node_modules/
+/my-portfolio/package-lock.json
