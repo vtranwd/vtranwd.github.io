@@ -270,7 +270,7 @@ figure {
 }
 
 .devicon {
-  font-size: 4.7rem;
+  font-size: 5.5rem;
   display: inline-table;
   margin: 15px;
 }
@@ -1182,6 +1182,7 @@ progress {
   .col-md-12 {
     flex: 0 0 auto;
     width: 100%;
+    margin-bottom: auto;
   }
 
   .offset-md-0 {
