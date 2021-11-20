@@ -269,6 +269,12 @@ figure {
   margin: 0 0 1rem;
 }
 
+.devicon {
+  font-size: 4.7rem;
+  display: inline-table;
+  margin: 15px;
+}
+
 img,
 svg {
   vertical-align: middle;
