@@ -7420,7 +7420,8 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: #0f0b21 !important;
+  background-image: linear-gradient(to bottom right, #0f0b21, #00232e) !important;
+
 }
 
 .bg-dark {
@@ -10855,7 +10856,7 @@ p {
 
 .page-section {
   padding: 6rem 0;
-  background-color: #10241f;
+  background-image: linear-gradient(to bottom right, #10241f, #000);
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
@@ -10978,7 +10979,7 @@ header.masthead .masthead-subheading {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 2rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
