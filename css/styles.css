@@ -57,6 +57,7 @@ body {
   line-height: 1.5;
   color: #8eab94;
   background-color: #10241F;
+  background-image: linear-gradient(to bottom right, #0f0b21, #00232e);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -6157,10 +6158,10 @@ textarea.form-control-lg {
 }
 
 .link-dark {
-  color: #212529;
+  color: #6c757d;
 }
 .link-dark:hover, .link-dark:focus {
-  color: #1a1e21;
+  color: #8eab94;
 }
 
 .ratio {
@@ -10856,7 +10857,7 @@ p {
 
 .page-section {
   padding: 6rem 0;
-  background-image: linear-gradient(to bottom right, #10241f, #000);
+  background-image: linear-gradient(to top right, #3f0b03, #000);
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
